@@ -6,3 +6,10 @@
 > - Delete todo
 > - Update existing todo
 > - Check and Uncheck todo
+
+> #### Tools and Technologies
+>
+> - 
+> - 
+> - 
+> - 
