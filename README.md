@@ -1,4 +1,8 @@
 # Todo   
 
-it is a simple to do app   
-with CRDE opertions
+> #### Todo app Functionality
+>
+> - Add new todo
+> - Delete todo
+> - Update existing todo
+> - Check and Uncheck todo
